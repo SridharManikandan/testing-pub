@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "./static/js/main.44c5a4ab.chunk.js",
-    "main.js.map": "./static/js/main.44c5a4ab.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.00d59005.js",
-    "runtime-main.js.map": "./static/js/runtime-main.00d59005.js.map",
-    "static/css/2.840aa081.chunk.css": "./static/css/2.840aa081.chunk.css",
-    "static/js/2.9c8074d8.chunk.js": "./static/js/2.9c8074d8.chunk.js",
-    "static/js/2.9c8074d8.chunk.js.map": "./static/js/2.9c8074d8.chunk.js.map",
-    "static/js/3.1b670329.chunk.js": "./static/js/3.1b670329.chunk.js",
-    "static/js/3.1b670329.chunk.js.map": "./static/js/3.1b670329.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.840aa081.chunk.css.map": "./static/css/2.840aa081.chunk.css.map",
-    "static/js/2.9c8074d8.chunk.js.LICENSE.txt": "./static/js/2.9c8074d8.chunk.js.LICENSE.txt",
-    "static/media/bold.reportdesigner.min.css": "./static/media/nodata.96b79feb.png",
-    "static/media/bold.reports.all.min.css": "./static/media/waitingpopup.925d5cb9.gif"
+    "main.js": "/testing-pub/react/static/js/main.44c5a4ab.chunk.js",
+    "main.js.map": "/testing-pub/react/static/js/main.44c5a4ab.chunk.js.map",
+    "runtime-main.js": "/testing-pub/react/static/js/runtime-main.fc408b28.js",
+    "runtime-main.js.map": "/testing-pub/react/static/js/runtime-main.fc408b28.js.map",
+    "static/css/2.fca1788d.chunk.css": "/testing-pub/react/static/css/2.fca1788d.chunk.css",
+    "static/js/2.9c8074d8.chunk.js": "/testing-pub/react/static/js/2.9c8074d8.chunk.js",
+    "static/js/2.9c8074d8.chunk.js.map": "/testing-pub/react/static/js/2.9c8074d8.chunk.js.map",
+    "static/js/3.1b670329.chunk.js": "/testing-pub/react/static/js/3.1b670329.chunk.js",
+    "static/js/3.1b670329.chunk.js.map": "/testing-pub/react/static/js/3.1b670329.chunk.js.map",
+    "index.html": "/testing-pub/react/index.html",
+    "static/css/2.fca1788d.chunk.css.map": "/testing-pub/react/static/css/2.fca1788d.chunk.css.map",
+    "static/js/2.9c8074d8.chunk.js.LICENSE.txt": "/testing-pub/react/static/js/2.9c8074d8.chunk.js.LICENSE.txt",
+    "static/media/bold.reportdesigner.min.css": "/testing-pub/react/static/media/nodata.96b79feb.png",
+    "static/media/bold.reports.all.min.css": "/testing-pub/react/static/media/waitingpopup.925d5cb9.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.00d59005.js",
-    "static/css/2.840aa081.chunk.css",
+    "static/js/runtime-main.fc408b28.js",
+    "static/css/2.fca1788d.chunk.css",
     "static/js/2.9c8074d8.chunk.js",
     "static/js/main.44c5a4ab.chunk.js"
   ]
